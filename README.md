@@ -53,3 +53,8 @@ The output from ** GPT4o model** is The document outlines several compliance ite
 
 7. **Business Integrity**: Conduct business activities with integrity.
 **Enter the query: exit**
+
+
+ ## Refernce 
+
+ https://github.com/thoqbk/pdf-query/blob/master/chat.py
